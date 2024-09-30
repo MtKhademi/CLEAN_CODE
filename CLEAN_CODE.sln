@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOPPrinciple", "OOPPrinciple", "{15388EF9-A7B6-446D-B72C-4D7E0B5C72A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Encapulation", "01_Encapsolution\01_Encapulation.csproj", "{9AEB5CF2-AC03-44F9-BC0D-A2F41DF76924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Encapulation", "01_Encapsolution\01_Encapulation.csproj", "{9AEB5CF2-AC03-44F9-BC0D-A2F41DF76924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Abstraction", "02_Abstraction\02_Abstraction.csproj", "{E74DC3C9-57BD-418E-994E-953C221FD9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Abstraction", "02_Abstraction\02_Abstraction.csproj", "{E74DC3C9-57BD-418E-994E-953C221FD9AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
